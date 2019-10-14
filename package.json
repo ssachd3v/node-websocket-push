@@ -1,0 +1,6 @@
+{
+  "name": "node-websocket-push",
+  "version": "1.0.0",
+  "description": "WebSocket Price Ticker",
+  "dependencies": {}
+}
